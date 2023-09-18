@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/the-bunkers-seoul-deploy/static/css/main.0c1605ec.css",
+    "main.js": "/the-bunkers-seoul-deploy/static/js/main.632290ce.js",
+    "static/media/Jost-VariableFont_wght.ttf": "/the-bunkers-seoul-deploy/static/media/Jost-VariableFont_wght.6de07354a7108bacf175.ttf",
+    "static/media/DMSerifDisplay-Regular.ttf": "/the-bunkers-seoul-deploy/static/media/DMSerifDisplay-Regular.ca478f5117e07586dd07.ttf",
+    "index.html": "/the-bunkers-seoul-deploy/index.html",
+    "main.0c1605ec.css.map": "/the-bunkers-seoul-deploy/static/css/main.0c1605ec.css.map",
+    "main.632290ce.js.map": "/the-bunkers-seoul-deploy/static/js/main.632290ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c1605ec.css",
+    "static/js/main.632290ce.js"
+  ]
+}
